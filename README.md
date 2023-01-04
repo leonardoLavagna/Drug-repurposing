@@ -1,5 +1,5 @@
 # Drug-repurposing
-"""
+```
 # TO DO
 # 1) call Diamond on the splits for i in range(5)
 #    and save the results in the files results_i (how??)
